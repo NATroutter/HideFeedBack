@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fi.natroutter.hidefeedback.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ServerCommandSourceMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
